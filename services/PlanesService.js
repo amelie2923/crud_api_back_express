@@ -1,6 +1,6 @@
 import db from '../data/database';
 /**
- *
+ * Validate function
  * @param {*} plane
  * @returns
  */
